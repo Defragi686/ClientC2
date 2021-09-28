@@ -1,2 +1,2 @@
-# Client BOTNET HTTP
-Um client de botnet simples feito em AUTOIT
+# Client C2C HTTP
+Um client de C2C simples feito em AUTOIT

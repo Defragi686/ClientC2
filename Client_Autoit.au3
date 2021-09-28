@@ -3,10 +3,10 @@
  AutoIt Version: 3.3.14.5
  Start Date:     24 mar 19:12
  End Date:		 25 mar 01:07
- Author:         KN1v7
+ Author:         Defrag i686
  Client Version: 1.1
  Update Code:    26 mar 02:08
- Github:         https://github.com/KnC0x00
+ Github:         https://github.com/Defragi686
  Script Function:
 	Um Client De C2C HTTP
 #ce ----------------------------------------------------------------------------

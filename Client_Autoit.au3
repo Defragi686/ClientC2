@@ -6,9 +6,9 @@
  Author:         KN1v7
  Client Version: 1.1
  Update Code:    26 mar 02:08
- Github:         https://github.com/Kanui-C
+ Github:         https://github.com/KnC0x00
  Script Function:
-	Um Client De Botnet HTTP
+	Um Client De C2C HTTP
 #ce ----------------------------------------------------------------------------
 
 ; Inicio do Script
